@@ -2,8 +2,10 @@
 This web application is a simple poll app built with Django and Python. It is just an exercise based on the official Django documentation. 
 
 ##
-See the project running and working:
+See the project running and working: <a href="https://www.youtube.com/embed/CUS9ZzPI0GQ" target="_blank">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+	</a>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/CUS9ZzPI0GQ)
+
 
 
